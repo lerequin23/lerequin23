@@ -7,8 +7,9 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
-[email]: elleoncram24@gmail.com
+<h2> 🤳 Connect with me:
+[email]: elleoncram24@gmail.com</h2>
+
 
 
 
