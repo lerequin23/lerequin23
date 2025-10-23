@@ -1,7 +1,18 @@
 ## Hi there 👋
 
-<!--
-**lerequin23/lerequin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+[email]: elleoncram24@gmail.com
+
+
+
+
 
 Here are some ideas to get you started:
 
