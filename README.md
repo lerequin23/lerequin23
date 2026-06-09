@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
  <b> 1- [Personal bot for driver registration in Taiwan](https://github.com/lerequin23/Driver-Registration-TW-) <br />
-<b>2</b> <br />
+<b>2- [Sales data analysis](https://github.com/lerequin23/Sales_analysis-2025-)</b> <br />
 <b>PowerShell</b>
 
 
