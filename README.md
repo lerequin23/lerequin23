@@ -3,8 +3,8 @@
 <h1>Hi, I'm Fred! <br/><a href="lerequin23">Programmer and Data Scientist(to be)</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
- <b> Clicking [Personal bot for driver registration in Taiwan](https://github.com/lerequin23/Driver-Registration-TW)</b> <br />
-<b>1</b> <br />
+ <b> 1- [Personal bot for driver registration in Taiwan](https://github.com/lerequin23/Driver-Registration-TW-) <br />
+<b>2</b> <br />
 <b>PowerShell</b>
 
 
